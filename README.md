@@ -5,14 +5,14 @@
 </div>
 
 <div style="text-align: center !important;">
-  <h2 margin: 0!important;">Hello, I'm Fernanda!</h2>
-</div>
-<div style="padding-top: 2rem;">
-   <a>
-    <img style="margin-top: 2rem;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandaatim&amp;hide_progress=true" alt="Top Langs" />
-  </a>
+  <h2 margin: 0!important;">Hello, I'm Fernanda! :coffee: </h2>
 </div>
 <div>
+   <a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandaatim&amp;hide_progress=true" alt="Top Langs" />
+  </a>
+</div>
+<div style="">
   <h3>Working with...</h3>
   <img style="width: 50px !important" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png">
   <img style="width: 50px !important" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png">
