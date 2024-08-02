@@ -9,9 +9,18 @@
 </div>
 <div style="padding-top: 2rem;">
    <a>
-    <img style="margin-top: 2rem;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandaatim&langs_count=8" alt="Top Langs" />
+    <img style="margin-top: 2rem;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandaatim&amp;hide_progress=true" alt="Top Langs" />
   </a>
 </div>
 <div>
   <h3>Working with...</h3>
+  <img style="width: 50px !important" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png">
+  <img style="width: 50px !important" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png">
+  <img style="width: 50px !important" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png">
+  <img style="width: 50px !important" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png">
+  <img style="width: 50px !important" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png">
+  <img style="width: 50px !important" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png">
+  <img style="width: 50px !important" src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4">
+  <img style="width: 50px !important" src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png">
+  <img style="width: 50px !important" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png">
 </div>
