@@ -1,5 +1,8 @@
-<!-- AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA-->
-
+<!--                                 
+              
+              
+              
+-->
 <div style="width: 200px !important; !important; margin-bottom: 10rem !important;">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 </div>
@@ -24,6 +27,7 @@
   <img style="width: 50px !important" src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4">
   <img style="width: 50px !important" src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png">
   <img style="width: 50px !important" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png">
+  <img style="width: 50px !important" src="https://miro.medium.com/v2/resize:fit:336/1*1V5UIkuX_IiE7dX2p05fQA.png">
 </div>
 
 <div>
