@@ -13,7 +13,7 @@
 </div>
 <div>
    <a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandaatim&amp;hide_progress=true" alt="Top Langs" />
+   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandaatim&layout=compact&hide_border=true&title_color=E14E60&text_color=ffffff&bg_color=0d1117"/>
   </a>
   <img src="https://private-user-images.githubusercontent.com/74038190/238200838-76036311-c8ea-4247-8bf8-a7077623036c.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjI2MzgzMzYsIm5iZiI6MTcyMjYzODAzNiwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA4MzgtNzYwMzYzMTEtYzhlYS00MjQ3LThiZjgtYTcwNzc2MjMwMzZjLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MDIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODAyVDIyMzM1NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTMzMzY0NWIyNzlmOGNlZWY4OTNhYzEyNjYzNjFhM2U1ZGM5YWM0ZDAyNGUwMWVmNWYyNThlZTUxZjAyMDQzM2MmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.3xsgALMNkGK-hvKg-cF-K403BwL2ydtW0N8tuAINZNw">
 </div>
