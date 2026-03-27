@@ -30,7 +30,7 @@
 <h3>Ambientes</h3>
 <p>
   <img width="50" src="icons/visual-studio.png" alt="Visual Studio" title="Visual Studio"/>
-  <img width="50" src="icons/outsystems-icon.png" alt="OutSystems" title="OutSystems"/>
+  <img width="50" src="icons/outsystems-icon-.png" alt="OutSystems" title="OutSystems"/>
   <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" title="Visual Studio Code"/>
 </p>
 
